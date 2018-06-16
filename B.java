@@ -4,8 +4,8 @@ public class B(){
 			for(int j=1;j<=i;j++){
 				System.out.print(j+"x"+i+"="+j*i);
 
-	}
+			}
 		System.out.println();
-}
-}
+		}
+	}
 }
